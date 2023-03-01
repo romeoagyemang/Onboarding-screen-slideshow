@@ -2,5 +2,4 @@
 
 ### Onboarding Screen UI
 
-![App UI](/UI.png)
 

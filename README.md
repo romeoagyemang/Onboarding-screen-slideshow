@@ -1,2 +1,6 @@
-# Onboarding-screen-slideshow
-A simple flutter app onboarding screen
+# Flutter Onboarding Screen
+
+### Onboarding Screen UI
+
+![App UI](/UI.png)
+
